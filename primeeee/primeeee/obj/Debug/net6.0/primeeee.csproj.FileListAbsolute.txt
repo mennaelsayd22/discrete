@@ -1,0 +1,15 @@
+E:\visual std\primeeee\primeeee\bin\Debug\net6.0\primeeee.exe
+E:\visual std\primeeee\primeeee\bin\Debug\net6.0\primeeee.deps.json
+E:\visual std\primeeee\primeeee\bin\Debug\net6.0\primeeee.runtimeconfig.json
+E:\visual std\primeeee\primeeee\bin\Debug\net6.0\primeeee.dll
+E:\visual std\primeeee\primeeee\bin\Debug\net6.0\primeeee.pdb
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\primeeee.csproj.AssemblyReference.cache
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\primeeee.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\primeeee.AssemblyInfoInputs.cache
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\primeeee.AssemblyInfo.cs
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\primeeee.csproj.CoreCompileInputs.cache
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\primeeee.dll
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\refint\primeeee.dll
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\primeeee.pdb
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\primeeee.genruntimeconfig.cache
+E:\visual std\primeeee\primeeee\obj\Debug\net6.0\ref\primeeee.dll

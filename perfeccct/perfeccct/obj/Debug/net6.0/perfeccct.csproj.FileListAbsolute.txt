@@ -1,0 +1,15 @@
+E:\visual std\perfeccct\perfeccct\bin\Debug\net6.0\perfeccct.exe
+E:\visual std\perfeccct\perfeccct\bin\Debug\net6.0\perfeccct.deps.json
+E:\visual std\perfeccct\perfeccct\bin\Debug\net6.0\perfeccct.runtimeconfig.json
+E:\visual std\perfeccct\perfeccct\bin\Debug\net6.0\perfeccct.dll
+E:\visual std\perfeccct\perfeccct\bin\Debug\net6.0\perfeccct.pdb
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\perfeccct.csproj.AssemblyReference.cache
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\perfeccct.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\perfeccct.AssemblyInfoInputs.cache
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\perfeccct.AssemblyInfo.cs
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\perfeccct.csproj.CoreCompileInputs.cache
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\perfeccct.dll
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\refint\perfeccct.dll
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\perfeccct.pdb
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\perfeccct.genruntimeconfig.cache
+E:\visual std\perfeccct\perfeccct\obj\Debug\net6.0\ref\perfeccct.dll
